@@ -1,6 +1,7 @@
 #!/bin/bash
 #
 # Rsync script which enables user input for easier configuration.
+# Github: https://github.com/stxyzth
 #
 #
 
